@@ -1,1 +1,16 @@
-{"todo":"put the code in here"}
+{
+		"sentence": ["Sitting at a Cafe today, I gave a #subject# down on #subjTheir# luck #money# to buy #groceries#. Not #minutes# later #subjThey# #locomoted# back past me #holding# #object.a#."],
+       	"money": ["#currencyMoney#","#otherMoney.a#"],
+       	"groceries": ["drugs","smack","crack","fish","groceries","crystal meth","a 1976 landrover"],
+ 		"currencyMoney": ["$5", "$5 billion", "10 cents"],
+		"otherMoney": ["banana", "string of beads", "roll of toilet paper", "grass skirt"],
+		"minutes": ["5 minutes","24 hours", "10 weeks", "half a lunar year"],
+		"locomoted": ["walked","sloped","swaggered","drove", "slithered", "staggered"],
+		"holding": ["grasping", "clasping", "carrying", "clutching", "hauling", "bouncing", "rolling"],
+		"object": ["six pack", "scorpion","lizard","zebra", "pitchfork", "bill of lading", "10 kg brick of cocaine", "mercedes"],
+        "setSubj": ["[subject:gorilla,cat,dog,mindless zombie][subjThey:they][subjThem:them][subjTheir:their][subjTheirs:theirs]",
+        	"[subject:woman,dame,superhero,politician][subjThey:she][subjThem:her][subjTheir:her][subjTheirs:hers]",
+        	"[subject:man,dude,superhero,politician][subjThey:he][subjThem:him][subjTheir:his][subjTheirs:his]"],
+		"origin": ["#[#setSubj#]sentence#"]
+}
+

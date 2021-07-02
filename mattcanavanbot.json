@@ -1,1 +1,34 @@
-{"todo":"put the code in here"}
+{
+	"goodThing" : ["coal", "gas", "uranium", "HELE power", "nuclear power", "dams", "free speech", "Parliamentary democracy", "the Queen", "guns", "right to life"],
+	"goodPeople" : ["the Nationals", "miners", "Adani"],
+	"goodPerson" : ["George Christensen", "Craig Kelly", "Chris Uhlmann", "ScoMo", "Tony Abbott", "Peter Credlin", "Chris Kenny"],
+	"badThing" : ["renewables", "wind power", "solar power", "hydrogen", "the Paris Agreement", "climate change", "Critical Race Theory", "abortion"],
+	"thingCausedByBadPeopleOrThing" : ["power outage", "blackout"],
+	"badPeople" : ["the Greens", "inner city latte sippers", "Labor senators", "the Labor party"],
+	"badPerson" : ["Bob Brown", "Anthony Albanese", "Larissa Waters"],
+	"goodPlace" : ["Rockhampton", "Rocky", "the Upper Hunter", "Australia", "Newcastle", "Moranbah"],
+	"badCountry" : ["China", "Russia", "North Korea", "Iran"],
+	"australianState" : ["NSW","QLD", "VIC","SA","TAS","NT","WA", "the ACT"],
+
+	"tweet" : ["People from #goodPlace# don't want #badPeople# telling them they can't have #goodThing#.",
+		"#badPeople.capitalize# want to destroy #goodThing# in #goodPlace#.",
+		"I love the people of #goodPlace#, because they love #goodThing#.",
+		"Make no mistake, #badPeople# caused this #thingCausedByBadPeopleOrThing# through their love of #badThing#.",
+		"#goodThing.capitalize# is currently powering 90% of #goodThing# in #goodPlace#. What would we do without it?",
+		"Great result in #goodPlace# ... Candidates that support #goodThing# mining got 82% of the vote!!! ",
+		"... just so happens that the #goodThingVar# vote in #goodPlace# is about the same as the share of #goodThingVar# powering #australianState# right now!",
+		"About to go live from #goodThingVar.capitalize# Week in #goodPlace#. Huge week ahead for the best #goodThingVar# expo in the world.",
+		"What a scam #badThing# is proving to be. So we send #badCountry# all our jobs and industry and get what in return?",
+		"If we can't trust #badCountry# in a #badThing# infrastructure deal why would we sign a #badThing# deal with them?",
+		"If #goodThing# is dead how come there is a surge in new #goodThing# proposals?",
+		"#goodPerson.capitalize# nails it again",
+		"#goodPlace# has the best quality #goodThingVar# in the world and it has never been in higher demand.",
+		"#badThing.capitalize# is an environmental disaster",
+		"People keep predicting Aussie #goodThingVar#'s demise and our great #goodThingVar# industry just keep proving them wrong",
+		"Good column by #goodPerson#. Time to consider #goodThing#",
+		"Good to see #badPeople# back removing bans on #goodThing#.",
+		"Not even #badCountry# can keep Aussie #goodThing# down!"],
+
+	"origin" : "#[goodThingVar:#goodThing#]tweet#"
+
+}
